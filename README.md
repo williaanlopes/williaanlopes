@@ -1,4 +1,4 @@
-<h1 align='center'><i>Stay hungry stay foolish</i></h1>
+<h1 align='center'><i>"Stay hungry stay foolish"</i></h1>
 
 <!--
 [![Header](https://images.unsplash.com/photo-1566837945700-30057527ade0?ixlib=rb-1.2.1&auto=format&fit=crop&w=900&q=50 "Header")](https://martinheinz.dev/)
@@ -17,6 +17,15 @@
 </p>
 -->
 ## Hey there 👋
+<!--
+I love technology, science and a good coffee!
+I am always looking for new knowledge and opportunities to make a difference in this world. I love to share my knowledge with others to build incredible things.
+-->
+ 
+<p>
+  <img width="150" align='right' src="https://education.github.com/assets/sdp-backpack-a64038716bf134f45e809ff86b9611fb97e41bbd2ccfa3181da73cf164d3c200.png?raw=false">
+</p>
+
 
 ### 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=java&logoColor=white&color=2bbc8a)
