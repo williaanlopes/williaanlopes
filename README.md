@@ -33,7 +33,10 @@
 ![](https://img.shields.io/badge/Code-Haskell-informational?style=flat&logo=haskell&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-Apache_Cordova-informational?style=flat&logo=apache-cordova&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-Vue-informational?style=flat&logo=vue.js&logoColor=white&color=2bbc8a)
+
 ![](https://img.shields.io/badge/Editor-IntelliJ_IDEA-informational?style=flat&logo=intellij-idea&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Editor-Eclipse_IDE-informational?style=flat&logo=eclipse&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Editor-Android_Studio-informational?style=flat&logo=android-studio&logoColor=white&color=2bbc8a)
+
 ![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-Google_Maps_API's-informational?style=flat&logo=google-maps&logoColor=white&color=2bbc8a)
